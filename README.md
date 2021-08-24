@@ -1,2 +1,1 @@
-# test1
-マインクラフトの自己制御
+# minecraft and pyshon
